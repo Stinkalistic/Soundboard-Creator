@@ -1,0 +1,9 @@
+This text file contains instructions on how to use Soundboard Creator
+
+To load a soundboard, open the application and select 2. Then it should load the soundboard for you. If the buttons all play the 
+windows error sound, that means it cannot find the sound files which should be in a folder in the same directory as the application.
+
+To create a soundboard, open the application and select 1. In the same directory as the app, you should have all the sound files in a folder in the same directory as
+ the application and they should all be wav files. Press create a new button and enter what it should say and the name of the soundfile it should play. When you are
+ done, press save your soundboard and it will save  to a .sndboard file. To share your soundboard, compress both the sndboard file and the folder with your sounds
+ into a zip file.
